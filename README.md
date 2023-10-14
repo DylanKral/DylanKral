@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DylanKral
 - 👀 I’m interested in software developement
-- 🌱 I’m currently learning Android app developement, software development and theory of computing at Cal State San Marcos
+- 🌱 Im currently a recent graduate from Cal State San Marcos with a Bachelors in Computer Science.
 - 📫 Best way to reach me is through email at dylankral@gmail.com
 
 <!---
